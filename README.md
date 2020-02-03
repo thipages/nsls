@@ -1,5 +1,7 @@
-# nonshared-localstorage
-Prevent localstorage shared accross browser tabs
+# nsls
+Non shared localstorage
+
+Prevent localstorage application to be shared accross browser tabs
 
 # Usage
 
