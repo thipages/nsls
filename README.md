@@ -1,7 +1,7 @@
 # nonshared-localstorage
 Prevent localstorage shared accross browser tabs
 
-#Usage
+# Usage
 
 ```javascript
 const isOnlyAvailableForMe = nsls("aKey");
